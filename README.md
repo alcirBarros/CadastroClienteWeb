@@ -1,6 +1,6 @@
 # CadastroClienteWeb
 
-Configuração da Aplicação  
+### Configuração da Aplicação  
 Apache Tomcat 7 ­ Servidor de Aplicação 
 Java 7 ­ (Java Development Kit) 
 Movem 3.0  ­ Gerenciador de dependência 
