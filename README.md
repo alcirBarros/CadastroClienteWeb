@@ -6,7 +6,7 @@ Apache Tomcat 7 ­ Servidor de Aplicação.
 
 Java 7 ­ (Java Development Kit). 
 
-Movem 3.0  ­ Gerenciador de dependência.
+Maven 3.0  ­ Gerenciador de dependência.
 
 Hibernate 4.3 ­ Ferramento Object Relecional.
 
