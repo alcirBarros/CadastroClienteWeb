@@ -18,4 +18,6 @@ Twitter BootStrap ­ CSS.
 
 ![Banana](https://github.com/alcirBarros/CadastroClienteWeb/blob/master/documenta%C3%A7%C3%A3o.pdf)
 
+<img src="https://github.com/alcirBarros/CadastroClienteWeb/blob/master/documenta%C3%A7%C3%A3o.pdf" alt="Banana" />
+
 
