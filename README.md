@@ -1,4 +1,4 @@
-# CadastroClienteWeb
+# Cadastro Cliente Web
 
 ### Configuração da Aplicação  
 
@@ -15,7 +15,6 @@ JSF 2.2 ­ Java Servelet faces.
 PrimeFaces ­ 5.3.
 
 Twitter BootStrap ­ CSS.
-
-https://docs.google.com/viewer?url=https://github.com/alcirBarros/CadastroClienteWeb/blob/master/documenta%C3%A7%C3%A3o.pdf
+ 
 
 
